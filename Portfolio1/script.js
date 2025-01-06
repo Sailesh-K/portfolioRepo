@@ -14,9 +14,9 @@ function openNewWindow() {
 
 function gitLoc()
 {
-    window.location.href='https://github.com/Sailesh-K';
+    window.open('https://github.com/Sailesh-K');
 }
 function linLoc()
 {
-    window.location.href='https://www.linkedin.com/in/sailesh-kumar-29j06un/';
+    window.open('https://www.linkedin.com/in/sailesh-kumar-29j06un/');
 }
